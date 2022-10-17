@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Car dealership",
+            "connectString": "postgres://lodstqor:K3vm53yOMeFeo6RQKsdnVTTPeHrxSsDR@mouse.db.elephantsql.com/lodstqor"
+        }
+    ]
+}
